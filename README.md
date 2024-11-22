@@ -1,4 +1,4 @@
-# 🛠️ ONlineJS - Zanova Bot Status Checker
+# 🛠️ ONlineJS - Zenova Bot Status Checker
 
 ONlineJS is a simple JavaScript-based project to monitor the health and uptime of Telegram bots. It performs regular status checks and updates a Telegram channel with the results in real-time.
 
@@ -121,7 +121,7 @@ const bots = [
 ---
 
 ## License
-MIT License. Feel free to use, modify, and share this project.
+[MIT License](./LICENSE). Feel free to use, modify, and share this project.
 
 ---
 
@@ -130,4 +130,7 @@ Found a bug? Want to add new features? Fork the repo and create a pull request.
 
 ---
 
-Happy Monitoring! 🎉
+
+<p align="center">
+  Made with ❤️ by <a href="https://zenovas.in">Zenova Team</a>
+</p>
