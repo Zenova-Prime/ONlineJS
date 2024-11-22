@@ -60,9 +60,9 @@ const bots = [
 ### Example:
 ```javascript
 const bots = [
-  { name: 'QUIZORA', url: 'https://httpbin.org/status/200', turl: 'https://t.me/Quizorabot' },
-  { name: 'LECTURES BOT', url: 'https://httpbin.org/status/200', turl: 'https://t.me/JEe_lecture_boT' },
-  { name: 'COMPANION BOT', url: 'https://httpbin.org/status/200', turl: 'https://t.me/the_lectures_bot' }
+  { name: 'QUIZORA', url: 'https://outside-gert-jsru-e3ccb0f1.koyeb.app/', turl: 'https://t.me/Quizorabot' },
+  { name: 'LECTURES BOT', url: 'https://judicial-kathye-jsroop-295764f8.koyeb.app/', turl: 'https://t.me/JEe_lecture_boT' },
+  { name: 'COMPANION BOT', url: 'https://judicial-kathye-jsroop-295764f8.koyeb.app/', turl: 'https://t.me/the_lectures_bot' }
 ];
 ```
 
